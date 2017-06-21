@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	background-image: url(tupian/timg9.jpg);
+	height: 350px;  
+	background-position:center top; 
+	background-size: cover;
+}
+
+*{
+	font-size: 15px;
+	color: #007799;
+	padding: 0px;
+	font-family: 宋体;
+	border: none;
+
+}
+
+a:link {
+ text-decoration: none;
+	color: #007799;
+}
+a:visited {
+ text-decoration: none;
+}
+a:hover {
+ text-decoration:underline;
+}
+a:active {
+ text-decoration: none;
+}
+.text{
+	width: 140px;
+	height: 20px;
+	background-color: #f8f5ee;
+	border: 2px solid #880000;
+
+}
+.button{
+	width: 50px;
+	height: 25px;
+	background-color: #003377;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+}
+.nav_search{
+	padding-top: 10px;
+	text-align: right;
+
+}
+#content{
+	
+	height: 700px;
+	background-color:#ffffbb; 
+}
+#content1 img{
+	width: 500px;
+	height: 280px;
+	float: left;
+	padding-top: 10px;
+}
+#content2 img{
+	height: 40px;
+	float: left;
+	padding-right: 10px;
+}
+#content2{
+	background-image: url(tupian/logo.jpg);
+	background-position: left;
+	background-size: 320px;
+
+	width: 300px;
+	margin-left: 70px;
+	float: left;
+	list-style-type: circle;
+	font-style: italic;
+	line-height: 25px;
+}
+#neirong2{
+	text-align: left;
+	height: 350px;
+	margin-bottom: 35px;
+}
+#pic1 img{
+	height: 40px;
+	width: 500px; 
+}
+#pic3 img{
+	height: 280px;
+	width: 500px;
+	background-size: cover;
+	float: left;
+}
+#list img{
+	height: 50px;
+	width: 400px;
+	float: left;
+	padding-left:50px;
+
+}
+#map1 img{
+	height: 200px;
+	width: 200px;
+	float: left;
+}
+#footer{
+
+	padding-top:100px;
+	align-content: center;
+	text-align: center;
+}
+#footer{
+	position: relative;
+    
+	bottom: 5px;
+}
