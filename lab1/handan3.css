@@ -1,0 +1,204 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	background-image: url(tupian/t2.jpg);
+	height: 350px;  
+	background-position:center top; 
+	background-size: cover;
+	margin-bottom: 10px
+	text-align:center;
+
+}
+
+*{
+	font-size: 15px;
+	color: #007799;
+	padding: 0px;
+	font-family: 宋体;
+	border: none;
+
+}
+#all{
+	
+	
+	width: 1280px;
+}
+a:link {
+ text-decoration: none;
+	color: red;
+}
+a:visited {
+ text-decoration: none;
+}
+a:hover {
+ text-decoration:underline;
+ color: yellow;
+}
+a:active {
+ text-decoration: none;
+}
+.text{
+	width: 140px;
+	height: 20px;
+	background-color: #f8f5ee;
+	border: 2px solid #880000;
+
+}
+.button{
+	width: 50px;
+	height: 25px;
+	background-color: #003377;
+	color: #fff;
+	border: 1px solid #f8f5ee;
+}
+.nav_search{
+	margin-top: -100px; 
+	text-align: left;
+    float: right;
+    padding-right: 25px;
+}
+#content{
+	float: left;
+	width: 1280px;
+	height: 1620px;
+	text-align: center;
+	background-color: #ffffbb;
+}
+
+
+
+}
+.nav_3 img{
+    height: 25px;
+
+}
+.nav_3 a{
+    color:red;
+    font-size: 25px;
+
+}
+.nav_3 a:hover{
+    color: yellow;
+}
+.nav_3 {
+	color: #fff;
+	font-size: 25px;
+	margin-top: 255px;
+}
+#jieshao1{
+	width: 350px;
+	padding-top: 35px;
+	padding-left: 10px;
+	padding-right: 10px;
+    background-image: url(images/show_bg.png);
+    background-size: cover;
+    float: left;
+}
+#jieshao1 img{
+	height: 200px;
+	width: 200px;
+    margin-top: 20px;
+    border: 2px red solid;
+}
+#pic1 img{
+	width:850px;
+	height: 50px;
+	float: right;
+	padding-right: 20px;
+	padding-top: 10px;
+
+}
+#jieshao2 h1{
+	font-family: "黑体"；
+	font-size:10px solid;
+
+}
+#pic2 img{
+	width: 600px;
+	height: 250px;
+	margin-top: 10px;
+}
+#jieshao2 p{
+	padding-left: 400px;
+}
+#pic3 img{
+	width: 1200px;
+	margin-right: 10px;
+	margin-top: 20px;
+}
+#nei2 p{
+    padding-left: 20px;
+}	
+.meijing1{
+	width: 500px;
+	height: 300px;
+	float: left;
+	margin-left: 10px;
+
+}
+
+#jieshao4{
+	
+	height: 450px;
+}
+#nei4 h1{
+    
+    
+    padding-right: 600px;
+    padding-left: 70px;
+    
+}
+#nei4 p{
+	
+	font-family: "楷体" 
+	width:750px;
+	padding-right:600px;
+	padding-left: 70px;
+}
+#pic4{
+	
+	width: 750px;
+	height: 450px;
+	float: left;
+}
+#pic4 img{
+	height: 450px;
+	width: 750px;
+}
+#pic5 img{
+	width: 500px;
+	height: 300px;
+}
+#pic5{
+	float: right;
+	position: relative ;
+	top: -450px;
+
+
+}
+#nei5 p{
+	
+	font-family: "楷体" 
+	width:650px;
+	padding-right:70px;
+	padding-left:900px;
+	
+}
+#nei5 h1{
+    
+    
+    padding-right: 70px;
+    padding-left: 900px;
+    
+}
+#nei5{
+	position: relative;
+	top: -400px;
+}
+#footer{
+	position: relative;
+    
+	align-content: center;
+	text-align: center;
+	margin-bottom: 20px;
+}

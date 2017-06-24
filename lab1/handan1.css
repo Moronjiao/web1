@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+#header{
+	height:600px;
+	width: 1280px;
+	background-image: url(pic3.jpg);
+	position: relative;
+	background-position:center top;
+	background-size: cover;
+	text-align:center;
+	color: #05aa57;
+}  
+
+#con1{
+	height: 200px;
+	width: 1280px;
+    padding-top: 50px;
+    
+    font-size: 60px;
+    color: white;
+    position: relative;
+    font-family:Kunstler Script;
+    float: left;
+    margin-left: -360px;
+}
+
+#all{
+	height: 700px;
+	width: 1280px;
+}
+#list{
+	float: left;
+	margin-top: 15px;
+}
+#di{
+    float: left;
+}
+#footer{
+	position: relative;
+    
+	align-content: center;
+	text-align: center;
+	margin-bottom: 5px;
+	margin-top: 10px;
+}

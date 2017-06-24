@@ -18,13 +18,14 @@
 
 a:link {
  text-decoration: none;
-	color: #007799;
+	color: red;
 }
 a:visited {
  text-decoration: none;
 }
 a:hover {
  text-decoration:underline;
+ color: yellow;
 }
 a:active {
  text-decoration: none;
@@ -113,4 +114,8 @@ a:active {
 	position: relative;
     
 	bottom: 5px;
+}
+#all{
+	height: 500px;
+	width: 1280px;
 }
